@@ -6,7 +6,7 @@ Front-end for an e-commerce clothes selling website.
 3- Contains many categories regarding clothes.<br />
 4- A nice Footer.<br />
 5- Authenticated Payment Page.<br />
-5- A nice Cart Page.
+5- A nice Cart Page
 ## Screenshots
 <img src="Demo_look/Web_look_1.PNG" width = "100%">
 <img src="Demo_look/Web_look_2.PNG" width = "100%">
